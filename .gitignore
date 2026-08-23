@@ -1,0 +1,7 @@
+# Các file và thư mục không được phép push lên GitHub
+node_modules/
+.env
+
+# Các file hệ thống sinh ra (Mac/Windows)
+.DS_Store
+Thumbs.db
